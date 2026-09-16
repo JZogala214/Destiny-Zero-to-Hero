@@ -5,8 +5,7 @@ rolls random ability unlocks and raid weapons from encounter loot tables,
 including randomized perk rolls generated from a bundled Bungie manifest.
 
 The executable includes a snapshot of the manifest, so the app does not
-require a Bungie API key or network connection to start. Rebuild the
-executable when you want to update the manifest snapshot.
+require a Bungie API key or network connection to start.
 
 ## Local data
 
