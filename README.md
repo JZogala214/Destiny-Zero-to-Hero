@@ -16,8 +16,7 @@ or account data is stored by this application.
 ## Third-party content
 
 The app redistributes a snapshot of Bungie's manifest and downloads Bungie
-icon content at runtime. Review Bungie's current API and content terms before
-redistributing the application or bundled assets.
+icon content at runtime.
 
 ## License
 
