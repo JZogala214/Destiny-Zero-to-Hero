@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Generated / downloaded data (hand-authored data under data/ IS committed)
+data/manifest.db
+data/version.txt
+data/save.json
+data/loot_table_validation.json
+data/abilities_resolved.json
+data/abilities_resolved_flat.json
+cache/
+*.spec
+/build/
+/dist/
+*.exe
+*.zip
+
+# IDE
+.vscode/
+.idea/

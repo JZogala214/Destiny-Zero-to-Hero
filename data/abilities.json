@@ -1,0 +1,2637 @@
+[
+  {
+    "name": "Triple Jump",
+    "type": "movement",
+    "element": "None",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Strafe Jump",
+    "type": "movement",
+    "element": "None",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "High Jump",
+    "type": "movement",
+    "element": "None",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Blink",
+    "type": "movement",
+    "element": "None",
+    "classes": [
+      "Hunter",
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Strafe Lift",
+    "type": "movement",
+    "element": "None",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Catapult Lift",
+    "type": "movement",
+    "element": "None",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "High Lift",
+    "type": "movement",
+    "element": "None",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Strafe Glide",
+    "type": "movement",
+    "element": "None",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Burst Glide",
+    "type": "movement",
+    "element": "None",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Balanced Glide",
+    "type": "movement",
+    "element": "None",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Gambler's Dodge",
+    "type": "class",
+    "element": "None",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Marksman's Dodge",
+    "type": "class",
+    "element": "None",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Acrobat's Dodge",
+    "type": "class",
+    "element": "Solar",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Towering Barricade",
+    "type": "class",
+    "element": "none",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Rally Barricade",
+    "type": "class",
+    "element": "none",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Thruster",
+    "type": "class",
+    "element": "Arc",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Healing Rift",
+    "type": "class",
+    "element": "none",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Empowering Rift",
+    "type": "class",
+    "element": "none",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Phoenix Dive",
+    "type": "class",
+    "element": "Solar",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Lightweight Knife",
+    "type": "melee",
+    "element": "Solar",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Knife Trick",
+    "type": "melee",
+    "element": "Solar",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Weighted Throwing Knife",
+    "type": "melee",
+    "element": "Solar",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Proximity Explosive Knife",
+    "type": "melee",
+    "element": "Solar",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Hammer Strike",
+    "type": "melee",
+    "element": "Solar",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Throwing Hammer",
+    "type": "melee",
+    "element": "Solar",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Celestial Fire",
+    "type": "melee",
+    "element": "Solar",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Incinerator Snap",
+    "type": "melee",
+    "element": "Solar",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Combination Blow",
+    "type": "melee",
+    "element": "Arc",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Disorienting Blow",
+    "type": "melee",
+    "element": "Arc",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Seismic Strike",
+    "type": "melee",
+    "element": "Arc",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thunderclap",
+    "type": "melee",
+    "element": "Arc",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Ballistic Slam",
+    "type": "melee",
+    "element": "Arc",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ball Lightning",
+    "type": "melee",
+    "element": "Arc",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Chain Lightning",
+    "type": "melee",
+    "element": "Arc",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Snare Bomb",
+    "type": "melee",
+    "element": "Void",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Phantom Surge",
+    "type": "melee",
+    "element": "Void",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Shield Throw",
+    "type": "melee",
+    "element": "Void",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Shield Bash",
+    "type": "melee",
+    "element": "Void",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Pocket Singularity",
+    "type": "melee",
+    "element": "Void",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Withering Blade",
+    "type": "melee",
+    "element": "Stasis",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Penumbral Blast",
+    "type": "melee",
+    "element": "Stasis",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Shiver Strike",
+    "type": "melee",
+    "element": "Stasis",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Threaded Spike",
+    "type": "melee",
+    "element": "Strand",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Arcane Needle",
+    "type": "melee",
+    "element": "Strand",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Frenzied Blade",
+    "type": "melee",
+    "element": "Strand",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Golden Gun: Marksman",
+    "type": "super",
+    "element": "Solar",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Golden Gun: Deadshot",
+    "type": "super",
+    "element": "Solar",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Blade Barrage",
+    "type": "super",
+    "element": "Solar",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Daybreak",
+    "type": "super",
+    "element": "Solar",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Well of Radiance",
+    "type": "super",
+    "element": "Solar",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Song of Flame",
+    "type": "super",
+    "element": "Solar",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Hammer of Sol",
+    "type": "super",
+    "element": "Solar",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Burning Maul",
+    "type": "super",
+    "element": "Solar",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Arc Staff",
+    "type": "super",
+    "element": "Arc",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Gathering Storm",
+    "type": "super",
+    "element": "Arc",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Storm's Edge",
+    "type": "super",
+    "element": "Arc",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Chaos Reach",
+    "type": "super",
+    "element": "Arc",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Stormtrance",
+    "type": "super",
+    "element": "Arc",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Thundercrash",
+    "type": "super",
+    "element": "Arc",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Fists of Havoc",
+    "type": "super",
+    "element": "Arc",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spectral Blades",
+    "type": "super",
+    "element": "Void",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Shadowshot: Deadfall",
+    "type": "super",
+    "element": "Void",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Shadowshot: Moebius Quiver",
+    "type": "super",
+    "element": "Void",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Nova Bomb: Vortex",
+    "type": "super",
+    "element": "Void",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Nova Bomb: Cataclysm",
+    "type": "super",
+    "element": "Void",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Nova Warp",
+    "type": "super",
+    "element": "Void",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Sentinel Shield",
+    "type": "super",
+    "element": "Void",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ward of Dawn",
+    "type": "super",
+    "element": "Void",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Twilight Arsenal",
+    "type": "super",
+    "element": "Void",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Silence and Squall",
+    "type": "super",
+    "element": "Stasis",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Winter's Wrath",
+    "type": "super",
+    "element": "Stasis",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Glacial Quake",
+    "type": "super",
+    "element": "Stasis",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Silkstrike",
+    "type": "super",
+    "element": "Strand",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Needlestorm",
+    "type": "super",
+    "element": "Strand",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Bladefury",
+    "type": "super",
+    "element": "Strand",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Knock 'Em Down",
+    "type": "aspect",
+    "element": "Solar",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "On Your Mark",
+    "type": "aspect",
+    "element": "Solar",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Gunpowder Gamble",
+    "type": "aspect",
+    "element": "Solar",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Crackshot",
+    "type": "aspect",
+    "element": "Solar",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Icarus Dash",
+    "type": "aspect",
+    "element": "Solar",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Heat Rises",
+    "type": "aspect",
+    "element": "Solar",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Touch of Flame",
+    "type": "aspect",
+    "element": "Solar",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Hellion",
+    "type": "aspect",
+    "element": "Solar",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Roaring Flames",
+    "type": "aspect",
+    "element": "Solar",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Sol Invictus",
+    "type": "aspect",
+    "element": "Solar",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Consecration",
+    "type": "aspect",
+    "element": "Solar",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Shieldburst",
+    "type": "aspect",
+    "element": "Solar",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Flow State",
+    "type": "aspect",
+    "element": "Arc",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Tempest Strike",
+    "type": "aspect",
+    "element": "Arc",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Lethal Current",
+    "type": "aspect",
+    "element": "Arc",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ascension",
+    "type": "aspect",
+    "element": "Arc",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Arc Soul",
+    "type": "aspect",
+    "element": "Arc",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Lightning Surge",
+    "type": "aspect",
+    "element": "Arc",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Electrostatic Mind",
+    "type": "aspect",
+    "element": "Arc",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ionic Sentry",
+    "type": "aspect",
+    "element": "Arc",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Touch of Thunder",
+    "type": "aspect",
+    "element": "Arc",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Juggernaut",
+    "type": "aspect",
+    "element": "Arc",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Knockout",
+    "type": "aspect",
+    "element": "Arc",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Storm's Keep",
+    "type": "aspect",
+    "element": "Arc",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Trapper's Ambush",
+    "type": "aspect",
+    "element": "Void",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Vanishing Step",
+    "type": "aspect",
+    "element": "Void",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Stylish Executioner",
+    "type": "aspect",
+    "element": "Void",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "On the Prowl",
+    "type": "aspect",
+    "element": "Void",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Controlled Demolition",
+    "type": "aspect",
+    "element": "Void",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Bastion",
+    "type": "aspect",
+    "element": "Void",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Offensive Bulwark",
+    "type": "aspect",
+    "element": "Void",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Unbreakable",
+    "type": "aspect",
+    "element": "Void",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Chaos Accelerant",
+    "type": "aspect",
+    "element": "Void",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Feed the Void",
+    "type": "aspect",
+    "element": "Void",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Child of the Old Gods",
+    "type": "aspect",
+    "element": "Void",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Soul Siphon",
+    "type": "aspect",
+    "element": "Void",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Winter's Shroud",
+    "type": "aspect",
+    "element": "Stasis",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Shatterdive",
+    "type": "aspect",
+    "element": "Stasis",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Grim Harvest",
+    "type": "aspect",
+    "element": "Stasis",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Touch of Winter",
+    "type": "aspect",
+    "element": "Stasis",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Cryoclasm",
+    "type": "aspect",
+    "element": "Stasis",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Tectonic Harvest",
+    "type": "aspect",
+    "element": "Stasis",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Howl of the Storm",
+    "type": "aspect",
+    "element": "Stasis",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Diamond Lance",
+    "type": "aspect",
+    "element": "Stasis",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Iceflare Bolts",
+    "type": "aspect",
+    "element": "Stasis",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Frostpulse",
+    "type": "aspect",
+    "element": "Stasis",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Bleak Watcher",
+    "type": "aspect",
+    "element": "Stasis",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Glacial Harvest",
+    "type": "aspect",
+    "element": "Stasis",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Widow's Silk",
+    "type": "aspect",
+    "element": "Strand",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ensnaring Slam",
+    "type": "aspect",
+    "element": "Strand",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Threaded Specter",
+    "type": "aspect",
+    "element": "Strand",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Whirling Maelstrom",
+    "type": "aspect",
+    "element": "Strand",
+    "classes": [
+      "Hunter"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Into the Fray",
+    "type": "aspect",
+    "element": "Strand",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Drengr's Lash",
+    "type": "aspect",
+    "element": "Strand",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Flechette Storm",
+    "type": "aspect",
+    "element": "Strand",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Banner of War",
+    "type": "aspect",
+    "element": "Strand",
+    "classes": [
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Weaver's Call",
+    "type": "aspect",
+    "element": "Strand",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Mindspun Invocation",
+    "type": "aspect",
+    "element": "Strand",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "The Wanderer",
+    "type": "aspect",
+    "element": "Strand",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Weavewalk",
+    "type": "aspect",
+    "element": "Strand",
+    "classes": [
+      "Warlock"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Mercy",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Resolve",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Torches",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Combustion",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Singeing",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Benevolence",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Beams",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Empyrean",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Char",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Tempering",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Blistering",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Solace",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Eruption",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Ashes",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Wonder",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Ember of Searing",
+    "type": "fragment",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Haste",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Instinct",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Beacons",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Resistance",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Momentum",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Shock",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Ions",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Discharge",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Frequency",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Focus",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Recharge",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Magnitude",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Amplitude",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Feedback",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Volts",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Spark of Brilliance",
+    "type": "fragment",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Vigilance",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Domineering",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Cessation",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Expulsion",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Provision",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Exchange",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Remnants",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Reprisal",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Undermining",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Persistence",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Leeching",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Dilation",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Instability",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Harvest",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Obscurity",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Echo of Starvation",
+    "type": "fragment",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Hedrons",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Fissures",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Refraction",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Durance",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Bonds",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Shards",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Chains",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Torment",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Fractures",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Impetus",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Conduction",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Rending",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Hunger",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Rime",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Reversal",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Whisper of Chill",
+    "type": "fragment",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thread of Mind",
+    "type": "fragment",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thread of Fury",
+    "type": "fragment",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thread of Ascent",
+    "type": "fragment",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thread of Finality",
+    "type": "fragment",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thread of Warding",
+    "type": "fragment",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thread of Wisdom",
+    "type": "fragment",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thread of Rebirth",
+    "type": "fragment",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thread of Transmutation",
+    "type": "fragment",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thread of Propagation",
+    "type": "fragment",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thread of Evolution",
+    "type": "fragment",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thread of Isolation",
+    "type": "fragment",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thread of Binding",
+    "type": "fragment",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thread of Generation",
+    "type": "fragment",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thread of Continuity",
+    "type": "fragment",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Facet of Grace",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Sacrifice",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Devotion",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Generosity",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Justice",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Honor",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Hope",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Courage",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Balance",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Bravery",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Awakening",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Command",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Dawn",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Protection",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Blessing",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Purpose",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Mending",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Defiance",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Solitude",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Ruin",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Facet of Dominance",
+    "type": "fragment",
+    "element": "Prismatic",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Tripmine Grenade",
+    "type": "grenade",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Thermite Grenade",
+    "type": "grenade",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Incendiary Grenade",
+    "type": "grenade",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Solar Grenade",
+    "type": "grenade",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Swarm Grenade",
+    "type": "grenade",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Fusion Grenade",
+    "type": "grenade",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Firebolt Grenade",
+    "type": "grenade",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Healing Grenade",
+    "type": "grenade",
+    "element": "Solar",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Lightning Grenade",
+    "type": "grenade",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Storm Grenade",
+    "type": "grenade",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Flashbang Grenade",
+    "type": "grenade",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Pulse Grenade",
+    "type": "grenade",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Skip Grenade",
+    "type": "grenade",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Flux Grenade",
+    "type": "grenade",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Arcbolt Grenade",
+    "type": "grenade",
+    "element": "Arc",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Void Spike",
+    "type": "grenade",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Void Wall",
+    "type": "grenade",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Suppressor Grenade",
+    "type": "grenade",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Vortex Grenade",
+    "type": "grenade",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Scatter Grenade",
+    "type": "grenade",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Magnetic Grenade",
+    "type": "grenade",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Axion Bolt",
+    "type": "grenade",
+    "element": "Void",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Glacier Grenade",
+    "type": "grenade",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Duskfield Grenade",
+    "type": "grenade",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Coldsnap Grenade",
+    "type": "grenade",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Shatter Grenade",
+    "type": "grenade",
+    "element": "Stasis",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Slicewire Grenade",
+    "type": "grenade",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": false
+  },
+  {
+    "name": "Shackle Grenade",
+    "type": "grenade",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Threadling Grenade",
+    "type": "grenade",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  },
+  {
+    "name": "Grapple",
+    "type": "grenade",
+    "element": "Strand",
+    "classes": [
+      "Hunter",
+      "Warlock",
+      "Titan"
+    ],
+    "prismatic": true
+  }
+]

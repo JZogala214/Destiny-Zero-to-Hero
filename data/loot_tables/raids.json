@@ -1,0 +1,689 @@
+[
+  {
+  "Vault of Glass": {
+    "loot_table": [
+      "Found Verdict",
+      "Vision of Confluence",
+      "Praedyth's Revenge",
+      "Fatebringer",
+      "Corrective Measure",
+      "Hezen Vengeance",
+      "Helmet",
+      "Arms",
+      "Chest",
+      "Legs",
+      "Class Item"
+    ],
+    "encounters": {
+      "Confluxes": {
+        "drops": [
+          "Found Verdict",
+          "Vision of Confluence",
+          "Corrective Measure",
+          "Arms",
+          "Class Item"
+        ]
+      },
+      "Oracles": {
+        "drops": [
+          "Found Verdict",
+          "Vision of Confluence",
+          "Praedyth's Revenge",
+          "Arms",
+          "Legs"
+        ]
+      },
+      "Templar": {
+        "drops": [
+          "Fatebringer",
+          "Vision of Confluence",
+          "Corrective Measure",
+          "Arms",
+          "Chest"
+        ]
+      },
+      "Gatekeeper": {
+        "drops": [
+          "Found Verdict",
+          "Fatebringer",
+          "Hezen Vengeance",
+          "Helmet",
+          "Legs"
+        ]
+      },
+      "Atheon": {
+        "drops": [
+          "Praedyth's Revenge",
+          "Corrective Measure",
+          "Hezen Vengeance",
+          "Helmet",
+          "Chest"
+        ]
+      }
+    }
+  }
+},
+  {
+  "Crota's End": {
+    "loot_table": [
+      "Song of Ir Yût",
+      "Fang of Ir Yût",
+      "Abyss Defiant",
+      "Swordbreaker",
+      "Oversoul Edict",
+      "Word of Crota",
+      "Helmet",
+      "Arms",
+      "Chest",
+      "Legs",
+      "Class Item"
+    ],
+    "encounters": {
+      "Abyss": {
+        "drops": [
+          "Song of Ir Yût",
+          "Fang of Ir Yût",
+          "Abyss Defiant",
+          "Helmet",
+          "Chest",
+          "Arms"
+        ]
+      },
+      "Bridge": {
+        "drops": [
+          "Oversoul Edict",
+          "Fang of Ir Yût",
+          "Swordbreaker",
+          "Arms",
+          "Chest",
+          "Legs"
+        ]
+      },
+      "Ir Yût": {
+        "drops": [
+          "Word of Crota",
+          "Song of Ir Yût",
+          "Oversoul Edict",
+          "Legs",
+          "Chest",
+          "Class Item"
+        ]
+      },
+      "Crota": {
+        "drops": [
+          "Word of Crota",
+          "Abyss Defiant",
+          "Swordbreaker",
+          "Helmet",
+          "Legs",
+          "Class Item"
+        ]
+      }
+    }
+  }
+},
+  {
+  "Kings Fall": {
+    "loot_table": [
+      "Doom of Chelchis",
+      "Qullim's Terminus",
+      "Defiance of Yasmin",
+      "Smite of Merain",
+      "Zaouli's Bane",
+      "Midha's Reckoning",
+      "Helmet",
+      "Arms",
+      "Chest",
+      "Legs",
+      "Class Item"
+    ],
+    "encounters": {
+      "Opening": {
+        "drops": [
+          "Doom of Chelchis",
+          "Class Item"
+        ]
+      },
+      "Totems": {
+        "drops": [
+          "Doom of Chelchis",
+          "Qullim's Terminus",
+          "Chest",
+          "Legs",
+          "Class Item"
+        ]
+      },
+      "Warpriest": {
+        "drops": [
+          "Defiance of Yasmin",
+          "Smite of Merain",
+          "Chest",
+          "Arms"
+        ]
+      },
+      "Golgoroth": {
+        "drops": [
+          "Zaouli's Bane",
+          "Qullim's Terminus",
+          "Midha's Reckoning",
+          "Helmet",
+          "Legs"
+        ]
+      },
+      "Daughters of Oryx": {
+        "drops": [
+          "Smite of Merain",
+          "Defiance of Yasmin",
+          "Zaouli's Bane",
+          "Arms",
+          "Chest"
+        ]
+      },
+      "Oryx": {
+        "drops": [
+          "Smite of Merain",
+          "Defiance of Yasmin",
+          "Zaouli's Bane",
+          "Midha's Reckoning",
+          "Qullim's Terminus",
+          "Doom of Chelchis",
+          "Arms",
+          "Helmet"
+        ]
+      }
+    }
+  }
+},
+  {
+  "Last Wish": {
+    "loot_table": [
+      "Age-Old Bond",
+      "Apex Predator",
+      "Chattering Bone",
+      "Nation of Beasts",
+      "Techeun Force",
+      "The Supremacy",
+      "Transfiguration",
+      "Tyranny of Heaven",
+      "Helmet",
+      "Arms",
+      "Chest",
+      "Legs",
+      "Class Item"
+    ],
+    "encounters": {
+     "Kalli": {
+        "drops": [
+          "Age-Old Bond",
+          "Apex Predator",
+          "Chattering Bone",
+          "Nation of Beasts",
+          "Techeun Force",
+          "The Supremacy",
+          "Transfiguration",
+          "Tyranny of Heaven",
+          "Helmet",
+          "Arms",
+          "Chest",
+          "Legs",
+          "Class Item"
+        ]
+      },
+      "Shuro Chi": {
+        "drops": [
+          "Age-Old Bond",
+          "Apex Predator",
+          "Chattering Bone",
+          "Nation of Beasts",
+          "Techeun Force",
+          "The Supremacy",
+          "Transfiguration",
+          "Tyranny of Heaven",
+          "Helmet",
+          "Arms",
+          "Chest",
+          "Legs",
+          "Class Item"
+        ]
+      },
+      "Morgeth": {
+        "drops": [
+          "Age-Old Bond",
+          "Apex Predator",
+          "Chattering Bone",
+          "Nation of Beasts",
+          "Techeun Force",
+          "The Supremacy",
+          "Transfiguration",
+          "Tyranny of Heaven",
+          "Helmet",
+          "Arms",
+          "Chest",
+          "Legs",
+          "Class Item"
+        ]
+      },
+      "Vault": {
+        "drops": [
+          "Age-Old Bond",
+          "Apex Predator",
+          "Chattering Bone",
+          "Nation of Beasts",
+          "Techeun Force",
+          "The Supremacy",
+          "Transfiguration",
+          "Tyranny of Heaven",
+          "Helmet",
+          "Arms",
+          "Chest",
+          "Legs",
+          "Class Item"
+        ]
+      },
+      "Riven": {
+        "drops": [
+          "Age-Old Bond",
+          "Apex Predator",
+          "Chattering Bone",
+          "Nation of Beasts",
+          "Techeun Force",
+          "The Supremacy",
+          "Transfiguration",
+          "Tyranny of Heaven",
+          "Helmet",
+          "Arms",
+          "Chest",
+          "Legs",
+          "Class Item"
+        ]
+      } 
+    }
+  }
+},
+ {
+ "Garden of Salvation": {
+    "loot_table": [
+      "Zealot's Reward",
+      "Accrued Redemption",
+      "Prophet of Doom",
+      "Ancient Gospel",
+      "Omniscient Eye",
+      "Reckless Oracle",
+      "Sacred Provenance",
+      "Helmet",
+      "Arms",
+      "Chest",
+      "Legs",
+      "Class Item"
+    ],
+    "encounters": {
+      "Evade": {
+        "drops": [
+          "Zealot's Reward",
+          "Accrued Redemption",
+          "Legs"
+        ]
+      },
+      "Summon": {
+        "drops": [
+          "Prophet of Doom",
+          "Reckless Oracle",
+          "Arms"
+        ]
+      },
+      "Consecrated Mind": {
+        "drops": [
+          "Ancient Gospel",
+          "Sacred Provenance",
+          "Chest"
+        ]
+      },
+      "Sanctified Mind": {
+        "drops": [
+          "Omniscient Eye",
+          "Helmet",
+          "Class Item"
+        ]
+      }
+    }
+ }
+},
+ {
+  "Deep Stone Crypt": {
+    "loot_table": [
+      "Trustee",
+      "Succession",
+      "Heritage",
+      "Posterity",
+      "Bequest",
+      "Commemoration",
+      "Helmet",
+      "Arms",
+      "Chest",
+      "Legs",
+      "Class Item"
+    ],
+    "encounters": {
+      "Security": {
+        "drops": [
+          "Trustee",
+          "Arms",
+          "Legs",
+          "Class Item"
+        ]
+      },
+      "Atraks-1": {
+        "drops": [
+          "Succession",
+          "Heritage",
+          "Arms",
+          "Legs",
+          "Class Item"
+        ]
+      },
+      "Descent": {
+        "drops": [
+          "Posterity",
+          "Chest",
+          "Arms",
+          "Class Item"
+        ]
+      },
+      "Taniks": {
+        "drops": [
+          "Bequest",
+          "Commemoration",
+          "Helmet",
+          "Chest",
+          "Legs"
+        ]
+      }
+    }
+  }
+},
+ {
+ "Vow of the Disciple": {
+    "loot_table": [
+      "Submission",
+      "Deliverance",
+      "Cataclysmic",
+      "Insidious",
+      "Forbearance",
+      "Lubrae's Ruin",
+      "Helmet",
+      "Arms",
+      "Chest",
+      "Legs",
+      "Class Item"
+    ],
+    "encounters": {
+      "Acquisition": {
+        "drops": [
+          "Submission",
+          "Deliverance",
+          "Cataclysmic",
+          "Helmet",
+          "Chest",
+          "Legs"
+        ]
+      },
+      "Caretaker": {
+        "drops": [
+          "Insidious",
+          "Submission",
+          "Cataclysmic",
+          "Forbearance",
+          "Arms",
+          "Helmet",
+          "Class Item"
+        ]
+      },
+      "Exhibition": {
+        "drops": [
+          "Submission",
+          "Deliverance",
+          "Chest",
+          "Legs"
+        ]
+      },
+      "Rhulk": {
+        "drops": [
+          "Insidious",
+          "Forbearance",
+          "Lubrae's Ruin",
+          "Helmet",
+          "Arms",
+          "Class Item"
+        ]
+      }
+    }
+  }
+},
+ {
+  "Root of Nightmares": {
+    "loot_table": [
+      "Briar's Contempt",
+      "Koraxis's Distress",
+      "Nessa's Oblation",
+      "Mykel's Reverence",
+      "Acasia's Dejection",
+      "Rufus's Fury",
+      "Helmet",
+      "Arms",
+      "Chest",
+      "Legs",
+      "Class Item"
+    ],
+    "encounters": {
+      "Cataclysm": {
+        "drops": [
+          "Briar's Contempt",
+          "Koraxis's Distress",
+          "Nessa's Oblation",
+          "Helmet",
+          "Arms",
+          "Chest"
+        ]
+      },
+      "Scission": {
+        "drops": [
+          "Mykel's Reverence",
+          "Koraxis's Distress",
+          "Acasia's Dejection",
+          "Nessa's Oblation",
+          "Chest",
+          "Arms",
+          "Legs"
+        ]
+      },
+      "Explicator": {
+        "drops": [
+          "Mykel's Reverence",
+          "Rufus's Fury",
+          "Acasia's Dejection",
+          "Koraxis's Distress",
+          "Chest",
+          "Legs",
+          "Class Item"
+        ]
+      },
+      "Nezarec": {
+        "drops": [
+          "Briar's Contempt",
+          "Koraxis's Distress",
+          "Nessa's Oblation",
+          "Mykel's Reverence",
+          "Acasia's Dejection",
+          "Rufus's Fury",
+          "Helmet",
+          "Legs",
+          "Class Item"
+        ]
+      }
+    }
+  }
+},
+ {
+ "Salvation's Edge" : {
+    "loot_table" : [
+      "Nullify",
+      "Non-Denouement",
+      "Imminence",
+      "Summum Bonum",
+      "Forthcoming Deviance",
+      "Critical Anomaly",
+      "Helmet",
+      "Arms",
+      "Chest",
+      "Legs",
+      "Class Item"
+  ],
+  "encounters" : {
+      "Substratum" : {
+        "drops" : [
+          "Nullify",
+          "Non-Denouement",
+          "Imminence",
+          "Chest",
+          "Arms"
+        ]
+      },
+      "Herald of Finality" : {
+        "drops" : [
+          "Imminence",
+          "Summum Bonum",
+          "Non-Denouement",
+          "Forthcoming Deviance",
+          "Helmet",
+          "Class Item"
+        ]
+      },
+      "Repository" : {
+        "drops" : [
+          "Forthcoming Deviance",
+          "Critical Anomaly",
+          "Nullify",
+          "Arms",
+          "Class Item"
+        ]
+      },
+      "Verity" : {
+        "drops" : [
+          "Summum Bonum",
+          "Imminence",
+          "Non-Denouement",
+          "Chest",
+          "Legs"
+        ]
+      },
+      "Witness" : {
+        "drops" : [
+          "Critical Anomaly",
+          "Summum Bonum",
+          "Nullify",
+          "Helmet",
+          "Legs"
+        ]
+      }
+    }
+ }
+},
+{
+  "Desert Perpetual" : {
+    "loot_table" : [],
+    "encounters" : {
+      "Iatros" : {
+        "drops" : []
+      },
+      "Epoptes" : {
+        "drops" : []
+      },
+      "Agraios" : {
+        "drops" : []
+      },
+      "Koregos" : {
+        "drops" : []
+      }
+    }
+  }
+},
+{
+  "Epic Desert Perpetual" : {
+    "loot_table" : [],
+    "encounters" : {
+      "Iatros" : {
+        "drops" : []
+      },
+      "Epoptes" : {
+        "drops" : []
+      },
+      "Agraios" : {
+        "drops" : []
+      },
+      "Koregos" : {
+        "drops" : []
+      }
+    }
+  }
+},
+{
+  "Pantheon: Calus Resplendent" : {
+    "loot_table" : [],
+    "encounters" : {
+      "Argos" : {
+        "drops" : []
+      },
+      "Gahlran" : {
+        "drops" : []
+      },
+      "Calus" : {
+        "drops" : []
+      }
+    }
+  }
+},
+{
+  "Pantheon: Morgeth Surpassing" : {
+    "loot_table" : [],
+    "encounters" : {
+      "Warpriest" : {
+        "drops" : []
+      },
+      "Consecrated Mind" : {
+        "drops" : []
+      },
+      "Morgeth" : {
+        "drops" : []
+      }
+    }
+  }
+},
+{
+  "Pantheon: Insurrection Prime Revolutionary" : {
+    "loot_table" : [],
+    "encounters" : {
+      "Argos" : {
+        "drops" : []
+      },
+      "Warpriest" : {
+        "drops" : []
+      },
+      "Gahlran" : {
+        "drops" : []
+      },
+      "Consecrated Mind" : {
+        "drops" : []
+      },
+      "Calus" : {
+        "drops" : []
+      },
+      "Morgeth" : {
+        "drops" : []
+      },
+      "Insurrection Prime" : {
+        "drops" : []
+      }
+    }
+  }
+}
+]
