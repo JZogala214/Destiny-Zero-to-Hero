@@ -1,11 +1,12 @@
 # Destiny Zero to Hero
 
-A Windows desktop app that tracks a "Zero to Hero" raid run in Destiny 2. It
+A desktop app that tracks a "Zero to Hero" raid run in Destiny 2. It
 rolls random ability unlocks and raid weapons from encounter loot tables,
 including randomized perk rolls generated from a bundled Bungie manifest.
 
-The executable includes a snapshot of the manifest, so the app does not
-require a Bungie API key or network connection to start.
+As part of the final update to Destiny 2, Bungie stopped raids from dropping 
+weapons to players that already had all of the unlocks. This app was created in
+order to simulate the "Zero to Hero" challenge for veteran players.
 
 ## Local data
 
